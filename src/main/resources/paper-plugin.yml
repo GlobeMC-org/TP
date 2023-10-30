@@ -1,0 +1,4 @@
+name: Temp-Pres
+version: '${project.version}'
+main: org.globemc.temppres.Temp_Pres
+api-version: '1.20'
